@@ -1,4 +1,4 @@
-# Memes => Genes => Dreams
+# Memes ⇒ Genes ⇒ Dreams
 Von den Utopien des Internets.
 
     Keno Westhoff
@@ -9,8 +9,6 @@ Von den Utopien des Internets.
     Prof. Dennis Paul, Prof. Dr. Frieder Nake
 
 ## Inhalt
-
-{{TOC}}
 
 ## Intro
 > Ein Fluch dem Gotte, zu dem wir gebeten
